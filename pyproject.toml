@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sherloc"
+version = "0.1.0"
+description = "Systematic Heuristics for Error Recognition and Localisation in OpenCitations data"
+authors = ["eliarizzetto <elia.rizzetto@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tqdm = "^4.66.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
