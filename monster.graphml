@@ -1,0 +1,1100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="https://w3id.org/oc/meta/id/06702360632" />
+    <node id="http://purl.org/spar/datacite/doi" />
+    <node id="https://w3id.org/oc/meta/id/06502380578" />
+    <node id="10.1016/j.surneu.2008.11.010" />
+    <node id="https://w3id.org/oc/meta/id/06902130117" />
+    <node id="https://w3id.org/oc/meta/br/061903839782" />
+    <node id="https://w3id.org/oc/meta/id/061904662904" />
+    <node id="https://w3id.org/oc/meta/id/06602375285" />
+    <node id="10.1016/j.surneu.2006.04.001" />
+    <node id="https://w3id.org/oc/meta/id/06602375299" />
+    <node id="10.1016/j.surneu.2006.02.027" />
+    <node id="https://w3id.org/oc/meta/id/06902130102" />
+    <node id="https://w3id.org/oc/meta/id/06602375541" />
+    <node id="https://w3id.org/oc/meta/id/06602374868" />
+    <node id="https://w3id.org/oc/meta/id/061904662903" />
+    <node id="10.1016/s0090-3019(02)00889-3" />
+    <node id="https://w3id.org/oc/meta/id/061302118626" />
+    <node id="10.1016/s0090-3019(02)00667-5" />
+    <node id="10.1016/j.surneu.2003.10.021" />
+    <node id="https://w3id.org/oc/meta/id/06902130059" />
+    <node id="https://w3id.org/oc/meta/id/06702360670" />
+    <node id="https://w3id.org/oc/meta/id/06602375707" />
+    <node id="https://w3id.org/oc/meta/id/06602374953" />
+    <node id="https://w3id.org/oc/meta/id/061403734191" />
+    <node id="16531185" />
+    <node id="https://w3id.org/oc/meta/id/06602375020" />
+    <node id="10.1016/s0090-3019(02)00969-2" />
+    <node id="https://w3id.org/oc/meta/id/06702360658" />
+    <node id="10.1016/j.surneu.2004.09.024" />
+    <node id="https://w3id.org/oc/meta/id/06502381046" />
+    <node id="10.1016/j.surneu.2007.10.006" />
+    <node id="https://w3id.org/oc/meta/id/061503729980" />
+    <node id="17445598" />
+    <node id="https://w3id.org/oc/meta/id/061403734146" />
+    <node id="http://purl.org/spar/datacite/pmid" />
+    <node id="https://w3id.org/oc/meta/id/06502380786" />
+    <node id="https://w3id.org/oc/meta/id/06602375065" />
+    <node id="https://w3id.org/oc/meta/id/061403734026" />
+    <node id="https://w3id.org/oc/meta/id/06602375341" />
+    <node id="https://w3id.org/oc/meta/id/061302118621" />
+    <node id="10.1016/s0090-3019(02)00759-0" />
+    <node id="https://w3id.org/oc/meta/id/06602375258" />
+    <node id="10.1016/j.surneu.2006.05.015" />
+    <node id="https://w3id.org/oc/meta/id/061503730031" />
+    <node id="17586209" />
+    <node id="https://w3id.org/oc/meta/id/06602375579" />
+    <node id="https://w3id.org/oc/meta/id/06602375179" />
+    <node id="https://w3id.org/oc/meta/id/06602375553" />
+    <node id="10.1016/j.surneu.2005.05.004" />
+    <node id="https://w3id.org/oc/meta/id/06602374822" />
+    <node id="10.1016/j.surneu.2007.05.002" />
+    <node id="https://w3id.org/oc/meta/id/06602375688" />
+    <node id="10.1016/j.surneu.2004.12.007" />
+    <node id="https://w3id.org/oc/meta/id/061904662895" />
+    <node id="https://w3id.org/oc/meta/id/06502380543" />
+    <node id="10.1016/j.surneu.2009.03.017" />
+    <node id="https://w3id.org/oc/meta/id/061302118383" />
+    <node id="https://w3id.org/oc/meta/id/06502380725" />
+    <node id="10.1016/j.surneu.2008.04.005" />
+    <node id="https://w3id.org/oc/meta/id/061403734126" />
+    <node id="16378837" />
+    <node id="https://w3id.org/oc/meta/id/06502380696" />
+    <node id="10.1016/j.surneu.2008.04.020" />
+    <node id="https://w3id.org/oc/meta/id/06602375451" />
+    <node id="https://w3id.org/oc/meta/id/061302118486" />
+    <node id="https://w3id.org/oc/meta/id/06602375220" />
+    <node id="https://w3id.org/oc/meta/id/06502380481" />
+    <node id="https://w3id.org/oc/meta/id/061503730521" />
+    <node id="19084681" />
+    <node id="https://w3id.org/oc/meta/id/06902130161" />
+    <node id="https://w3id.org/oc/meta/id/06502381000" />
+    <node id="https://w3id.org/oc/meta/id/06902130254" />
+    <node id="10.1016/j.surneu.2005.12.018" />
+    <node id="10.1016/j.surneu.2005.04.023" />
+    <node id="https://w3id.org/oc/meta/id/06602374750" />
+    <node id="https://w3id.org/oc/meta/id/06502380539" />
+    <node id="10.1016/j.surneu.2006.06.045" />
+    <node id="https://w3id.org/oc/meta/id/06602374949" />
+    <node id="https://w3id.org/oc/meta/id/061302118307" />
+    <node id="https://w3id.org/oc/meta/br/061403699666" />
+    <node id="https://w3id.org/oc/meta/id/061302118330" />
+    <node id="https://w3id.org/oc/meta/id/06502380452" />
+    <node id="10.1016/j.surneu.2009.07.047" />
+    <node id="https://w3id.org/oc/meta/id/06602374961" />
+    <node id="https://w3id.org/oc/meta/id/06602374888" />
+    <node id="10.1016/j.surneu.2006.08.051" />
+    <node id="https://w3id.org/oc/meta/id/06502380612" />
+    <node id="https://w3id.org/oc/meta/id/06602375661" />
+    <node id="10.1016/s0090-3019(03)00073-9" />
+    <node id="https://w3id.org/oc/meta/id/06602375624" />
+    <node id="https://w3id.org/oc/meta/id/061503730576" />
+    <node id="19559923" />
+    <node id="10.1016/j.surneu.2004.10.026" />
+    <node id="10.1016/s0090-3019(03)00175-7" />
+    <node id="https://w3id.org/oc/meta/id/061503729998" />
+    <node id="17512322" />
+    <node id="https://w3id.org/oc/meta/id/061403734378" />
+    <node id="10.1016/j.surneu.2007.01.067" />
+    <node id="10.1016/j.surneu.2004.07.019" />
+    <node id="10.1016/j.surneu.2005.03.015" />
+    <node id="https://w3id.org/oc/meta/id/06502380624" />
+    <node id="https://w3id.org/oc/meta/id/061302118614" />
+    <node id="https://w3id.org/oc/meta/br/06902122968" />
+    <node id="https://w3id.org/oc/meta/id/061302118353" />
+    <node id="10.1016/s0090-3019(03)00009-0" />
+    <node id="https://w3id.org/oc/meta/id/06502380795" />
+    <node id="https://w3id.org/oc/meta/br/061302096221" />
+    <node id="10.1016/s0090-3019(03)00568-8" />
+    <node id="16427394" />
+    <node id="https://w3id.org/oc/meta/br/061302095990" />
+    <node id="10.1016/j.surneu.2007.07.004" />
+    <node id="https://w3id.org/oc/meta/id/061403734173" />
+    <node id="https://w3id.org/oc/meta/id/061503730431" />
+    <node id="https://w3id.org/oc/meta/br/061302095937" />
+    <node id="https://w3id.org/oc/meta/id/06902130079" />
+    <node id="https://w3id.org/oc/meta/br/061302095914" />
+    <node id="https://w3id.org/oc/meta/id/061302118322" />
+    <node id="https://w3id.org/oc/meta/id/061503730395" />
+    <node id="https://w3id.org/oc/meta/id/06702360761" />
+    <node id="10.1016/j.surneu.2004.03.007" />
+    <node id="https://w3id.org/oc/meta/id/06602374794" />
+    <node id="10.1016/j.surneu.2006.10.024" />
+    <node id="https://w3id.org/oc/meta/id/06702360748" />
+    <node id="https://w3id.org/oc/meta/br/06402488752" />
+    <node id="https://w3id.org/oc/meta/id/06402379781" />
+    <node id="10.1016/j.surneu.2003.12.003" />
+    <node id="https://w3id.org/oc/meta/id/061302118442" />
+    <node id="https://w3id.org/oc/meta/br/061302096228" />
+    <node id="https://w3id.org/oc/meta/id/06502381081" />
+    <node id="https://w3id.org/oc/meta/id/06602375497" />
+    <node id="https://w3id.org/oc/meta/id/06602375386" />
+    <node id="10.1016/j.surneu.2007.08.001" />
+    <node id="https://w3id.org/oc/meta/br/06902123061" />
+    <node id="https://w3id.org/oc/meta/id/06602375428" />
+    <node id="10.1016/j.surneu.2008.01.018" />
+    <node id="https://w3id.org/oc/meta/br/061403699545" />
+    <node id="https://w3id.org/oc/meta/id/06402379756" />
+    <node id="https://w3id.org/oc/meta/id/061503730511" />
+    <node id="https://w3id.org/oc/meta/id/061503730574" />
+    <node id="https://w3id.org/oc/meta/br/061302096049" />
+    <node id="10.1016/j.surneu.2005.01.011" />
+    <node id="https://w3id.org/oc/meta/id/06502380666" />
+    <node id="https://w3id.org/oc/meta/id/06502380652" />
+    <node id="https://w3id.org/oc/meta/id/061403733980" />
+    <node id="https://w3id.org/oc/meta/id/061403733905" />
+    <node id="10.1016/j.surneu.2008.10.013" />
+    <node id="https://w3id.org/oc/meta/id/06602375639" />
+    <node id="15639508" />
+    <node id="10.1016/j.surneu.2009.04.028" />
+    <node id="https://w3id.org/oc/meta/br/061302096093" />
+    <node id="https://w3id.org/oc/meta/id/06602374913" />
+    <node id="10.1016/j.surneu.2005.06.012" />
+    <node id="10.1016/j.surneu.2007.05.044" />
+    <node id="10.1016/j.surneu.2007.02.053" />
+    <node id="10.1016/j.surneu.2003.11.010" />
+    <node id="10.1016/j.surneu.2007.09.001" />
+    <node id="https://w3id.org/oc/meta/br/06402488727" />
+    <node id="19427937" />
+    <node id="18424297" />
+    <node id="10.1016/j.surneu.2004.11.019" />
+    <node id="10.1016/j.surneu.2006.11.031" />
+    <node id="https://w3id.org/oc/meta/br/061302095929" />
+    <node id="https://w3id.org/oc/meta/br/061403699690" />
+    <node id="10.1016/j.surneu.2005.02.004" />
+    <node id="10.1016/s0090-3019(03)00233-7" />
+    <node id="10.1016/j.surneu.2008.09.024" />
+    <node id="https://w3id.org/oc/meta/id/06502380881" />
+    <node id="10.1016/j.surneu.2008.02.022" />
+    <node id="https://w3id.org/oc/meta/id/06602375371" />
+    <node id="10.1016/j.surneu.2005.11.054" />
+    <node id="10.1016/j.surneu.2004.06.007" />
+    <node id="10.1016/j.surneu.2009.06.022" />
+    <node id="https://w3id.org/oc/meta/br/061302095960" />
+    <node id="10.1016/j.surneu.2006.08.004" />
+    <node id="10.1016/j.surneu.2005.10.015" />
+    <node id="16488237" />
+    <node id="10.1016/s0090-3019(01)00711-x" />
+    <node id="16050995" />
+    <node id="https://w3id.org/oc/meta/id/06602375699" />
+    <node id="10.1016/j.surneu.2004.08.077" />
+    <node id="https://w3id.org/oc/meta/id/06602374855" />
+    <node id="https://w3id.org/oc/meta/id/06602375313" />
+    <node id="18486693" />
+    <node id="15936360" />
+    <node id="10.1016/s0090-3019(02)00733-4" />
+    <node id="10.1016/j.surneu.2006.01.015" />
+    <node id="10.1016/s0090-3019(01)00712-1" />
+    <node id="10.1016/s0090-3019(02)00739-5" />
+    <node id="10.1016/j.surneu.2003.09.012" />
+    <node id="19055951" />
+    <node id="10.1016/j.surneu.2006.12.043" />
+    <node id="10.1016/j.surneu.2007.11.007" />
+    <node id="10.1016/j.surneu.2005.09.007" />
+    <node id="17210283" />
+    <node id="10.1016/s0090-3019(02)00795-4" />
+    <node id="10.1016/j.surneu.2008.07.015" />
+    <node id="10.1016/j.surneu.2005.08.005" />
+    <node id="10.1016/j.surneu.2008.05.021" />
+    <node id="10.1016/j.surneu.2005.07.045" />
+    <node id="10.1016/j.surneu.2007.03.036" />
+    <node id="10.1016/s0090-3019(03)00147-2" />
+    <node id="10.1016/j.surneu.2004.04.013" />
+    <node id="10.1016/s0090-3019(02)00978-3" />
+    <node id="10.1016/j.surneu.2006.05.044" />
+    <node id="10.1016/j.surneu.2007.01.012" />
+    <node id="https://w3id.org/oc/meta/br/061302096233" />
+    <edge source="https://w3id.org/oc/meta/id/06702360632" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06702360632" target="10.1016/j.surneu.2004.10.026">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380578" target="10.1016/j.surneu.2008.11.010">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380578" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130117" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130117" target="10.1016/j.surneu.2003.09.012">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061904662904">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375541">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06702360670">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06702360632">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375020">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380786">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502381046">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375179">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061904662895">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061302118383">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06902130059">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602374868">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375451">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061403734026">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06902130254">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061503730521">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602374949">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061302118307">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375707">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602374961">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602374888">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502381000">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380612">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061904662903">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375661">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061403734378">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375258">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380624">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06902130117">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380578">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380725">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061403734173">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375688">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061302118614">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061503730431">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061302118330">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06902130079">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375299">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061302118322">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061503730395">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061403734191">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602374794">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380539">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061302118442">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06902130102">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380543">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375386">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061503730031">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375428">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061302118353">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061503730511">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061503730574">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06402379756">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061403734146">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380696">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380666">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06702360748">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602374913">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06402379781">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602374750">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375065">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375285">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375341">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06702360761">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375497">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380881">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602374822">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502381081">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06702360658">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061403733980">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061302118486">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061403734126">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061302118626">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602374953">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061503729980">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06902130161">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380452">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061302118621">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061503730576">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375553">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375699">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375639">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061403733905">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/061503729998">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380795">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380652">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602374855">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375579">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375624">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375371">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375313">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06602375220">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061903839782" target="https://w3id.org/oc/meta/id/06502380481">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061904662904" target="10.1016/s0090-3019(02)00969-2">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061904662904" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375285" target="10.1016/j.surneu.2006.04.001">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375285" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375299" target="10.1016/j.surneu.2006.02.027">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375299" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130102" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130102" target="10.1016/j.surneu.2003.10.021">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375541" target="10.1016/j.surneu.2005.06.012">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375541" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374868" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374868" target="10.1016/j.surneu.2007.02.053">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061904662903" target="10.1016/s0090-3019(02)00889-3">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061904662903" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118626" target="10.1016/s0090-3019(02)00667-5">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118626" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130059" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130059" target="10.1016/j.surneu.2003.12.003">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06702360670" target="10.1016/j.surneu.2004.07.019">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06702360670" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375707" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375707" target="10.1016/j.surneu.2004.11.019">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374953" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374953" target="10.1016/j.surneu.2006.11.031">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734191" target="16531185">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734191" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375020" target="10.1016/j.surneu.2006.08.051">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375020" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06702360658" target="10.1016/j.surneu.2004.09.024">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06702360658" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502381046" target="10.1016/j.surneu.2007.10.006">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502381046" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503729980" target="17445598">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503729980" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734146" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734146" target="16427394">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380786" target="10.1016/j.surneu.2008.02.022">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380786" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375065" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375065" target="10.1016/j.surneu.2006.08.004">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734026" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734026" target="16050995">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375341" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375341" target="10.1016/j.surneu.2005.12.018">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118621" target="10.1016/s0090-3019(02)00759-0">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118621" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375258" target="10.1016/j.surneu.2006.05.015">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375258" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730031" target="17586209">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730031" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375579" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375579" target="10.1016/j.surneu.2005.04.023">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375179" target="10.1016/j.surneu.2006.06.045">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375179" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375553" target="10.1016/j.surneu.2005.05.004">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375553" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374822" target="10.1016/j.surneu.2007.05.002">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374822" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375688" target="10.1016/j.surneu.2004.12.007">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375688" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061904662895" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061904662895" target="10.1016/j.surneu.2004.06.007">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380543" target="10.1016/j.surneu.2009.03.017">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380543" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118383" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118383" target="10.1016/s0090-3019(02)00978-3">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380725" target="10.1016/j.surneu.2008.04.005">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380725" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734126" target="16378837">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734126" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380696" target="10.1016/j.surneu.2008.04.020">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380696" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375451" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375451" target="10.1016/j.surneu.2005.08.005">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118486" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118486" target="10.1016/s0090-3019(02)00733-4">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375220" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375220" target="10.1016/j.surneu.2006.05.044">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380481" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380481" target="10.1016/j.surneu.2009.06.022">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730521" target="19084681">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730521" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130161" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130161" target="10.1016/s0090-3019(03)00568-8">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502381000" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502381000" target="10.1016/j.surneu.2007.09.001">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130254" target="10.1016/s0090-3019(03)00233-7">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130254" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374750" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374750" target="10.1016/j.surneu.2007.07.004">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380539" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380539" target="10.1016/j.surneu.2009.04.028">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374949" target="10.1016/j.surneu.2006.12.043">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374949" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118307" target="10.1016/s0090-3019(03)00175-7">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118307" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061403699666" target="https://w3id.org/oc/meta/id/061302118330">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118330" target="10.1016/s0090-3019(03)00073-9">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118330" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380452" target="10.1016/j.surneu.2009.07.047">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380452" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374961" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374961" target="10.1016/j.surneu.2006.10.024">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374888" target="10.1016/j.surneu.2007.01.067">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374888" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380612" target="10.1016/j.surneu.2008.10.013">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380612" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375661" target="10.1016/j.surneu.2005.01.011">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375661" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375624" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375624" target="10.1016/j.surneu.2005.03.015">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730576" target="19559923">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730576" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503729998" target="17512322">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503729998" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734378" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734378" target="17210283">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380624" target="10.1016/j.surneu.2008.09.024">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380624" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118614" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118614" target="10.1016/s0090-3019(02)00739-5">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/06902122968" target="https://w3id.org/oc/meta/id/06902130161">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118353" target="10.1016/s0090-3019(03)00009-0">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118353" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380795" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380795" target="10.1016/j.surneu.2008.01.018">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061302096221" target="https://w3id.org/oc/meta/id/061302118614">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061302095990" target="https://w3id.org/oc/meta/id/061302118383">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734173" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403734173" target="16488237">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730431" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730431" target="18486693">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061302095937" target="https://w3id.org/oc/meta/id/061302118330">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130079" target="10.1016/j.surneu.2003.11.010">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06902130079" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061302095914" target="https://w3id.org/oc/meta/id/061302118307">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118322" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118322" target="10.1016/s0090-3019(03)00147-2">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730395" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730395" target="18424297">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06702360761" target="10.1016/j.surneu.2004.03.007">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06702360761" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374794" target="10.1016/j.surneu.2007.05.044">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374794" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06702360748" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06702360748" target="10.1016/j.surneu.2004.04.013">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/06402488752" target="https://w3id.org/oc/meta/id/06402379781">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06402379781" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06402379781" target="10.1016/s0090-3019(01)00711-x">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118442" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061302118442" target="10.1016/s0090-3019(02)00795-4">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061302096228" target="https://w3id.org/oc/meta/id/061302118621">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502381081" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502381081" target="10.1016/j.surneu.2007.08.001">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375497" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375497" target="10.1016/j.surneu.2005.07.045">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375386" target="10.1016/j.surneu.2005.10.015">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375386" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/06902123061" target="https://w3id.org/oc/meta/id/06902130254">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375428" target="10.1016/j.surneu.2005.09.007">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375428" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061403699545" target="https://w3id.org/oc/meta/id/06402379756">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06402379756" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06402379756" target="10.1016/s0090-3019(01)00712-1">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730511" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730511" target="19055951">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730574" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061503730574" target="19427937">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061302096049" target="https://w3id.org/oc/meta/id/061302118442">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380666" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380666" target="10.1016/j.surneu.2008.05.021">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380652" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380652" target="10.1016/j.surneu.2008.07.015">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403733980" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403733980" target="15936360">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403733905" target="http://purl.org/spar/datacite/pmid">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/061403733905" target="15639508">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375639" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375639" target="10.1016/j.surneu.2005.02.004">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061302096093" target="https://w3id.org/oc/meta/id/061302118486">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374913" target="10.1016/j.surneu.2007.01.012">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374913" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/06402488727" target="https://w3id.org/oc/meta/id/06402379756">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061302095929" target="https://w3id.org/oc/meta/id/061302118322">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061403699690" target="https://w3id.org/oc/meta/id/061302118307">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380881" target="10.1016/j.surneu.2007.11.007">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06502380881" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375371" target="10.1016/j.surneu.2005.11.054">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375371" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061302095960" target="https://w3id.org/oc/meta/id/061302118353">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375699" target="10.1016/j.surneu.2004.08.077">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375699" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374855" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602374855" target="10.1016/j.surneu.2007.03.036">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375313" target="http://purl.org/spar/datacite/doi">
+      <data key="d0">http://purl.org/spar/datacite/usesIdentifierScheme</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/id/06602375313" target="10.1016/j.surneu.2006.01.015">
+      <data key="d0">http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue</data>
+    </edge>
+    <edge source="https://w3id.org/oc/meta/br/061302096233" target="https://w3id.org/oc/meta/id/061302118626">
+      <data key="d0">http://purl.org/spar/datacite/hasIdentifier</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,298 @@
+@prefix literal:	<http://www.essepuntato.it/2010/06/literalreification/> .
+<https://w3id.org/oc/meta/id/06902130059>	literal:hasLiteralValue	"10.1016/j.surneu.2003.12.003" .
+@prefix datacite:	<http://purl.org/spar/datacite/> .
+<https://w3id.org/oc/meta/id/06902130059>	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06902130079>	literal:hasLiteralValue	"10.1016/j.surneu.2003.11.010" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06902130102>	literal:hasLiteralValue	"10.1016/j.surneu.2003.10.021" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06902130117>	literal:hasLiteralValue	"10.1016/j.surneu.2003.09.012" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06902130161>	literal:hasLiteralValue	"10.1016/s0090-3019(03)00568-8" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06902130254>	literal:hasLiteralValue	"10.1016/s0090-3019(03)00233-7" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06402379756>	literal:hasLiteralValue	"10.1016/s0090-3019(01)00712-1" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06402379781>	literal:hasLiteralValue	"10.1016/s0090-3019(01)00711-x" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/br/06902122968>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/06902130161> .
+<https://w3id.org/oc/meta/id/06702360632>	literal:hasLiteralValue	"10.1016/j.surneu.2004.10.026" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06702360658>	literal:hasLiteralValue	"10.1016/j.surneu.2004.09.024" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06702360670>	literal:hasLiteralValue	"10.1016/j.surneu.2004.07.019" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06702360748>	literal:hasLiteralValue	"10.1016/j.surneu.2004.04.013" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06702360761>	literal:hasLiteralValue	"10.1016/j.surneu.2004.03.007" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/br/061302095914>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118307> .
+<https://w3id.org/oc/meta/br/061302095929>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118322> .
+<https://w3id.org/oc/meta/br/061302095937>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118330> .
+<https://w3id.org/oc/meta/br/061302095960>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118353> .
+<https://w3id.org/oc/meta/br/061302095990>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118383> .
+<https://w3id.org/oc/meta/id/061302118307>	literal:hasLiteralValue	"10.1016/s0090-3019(03)00175-7" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061302118322>	literal:hasLiteralValue	"10.1016/s0090-3019(03)00147-2" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061302118330>	literal:hasLiteralValue	"10.1016/s0090-3019(03)00073-9" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061302118353>	literal:hasLiteralValue	"10.1016/s0090-3019(03)00009-0" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061302118383>	literal:hasLiteralValue	"10.1016/s0090-3019(02)00978-3" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061503729980>	literal:hasLiteralValue	"17445598" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061503729998>	literal:hasLiteralValue	"17512322" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/br/061403699545>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/06402379756> .
+<https://w3id.org/oc/meta/br/061403699666>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118330> .
+<https://w3id.org/oc/meta/br/061403699690>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118307> .
+<https://w3id.org/oc/meta/id/06602374750>	literal:hasLiteralValue	"10.1016/j.surneu.2007.07.004" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602374794>	literal:hasLiteralValue	"10.1016/j.surneu.2007.05.044" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602374822>	literal:hasLiteralValue	"10.1016/j.surneu.2007.05.002" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602374855>	literal:hasLiteralValue	"10.1016/j.surneu.2007.03.036" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602374868>	literal:hasLiteralValue	"10.1016/j.surneu.2007.02.053" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602374888>	literal:hasLiteralValue	"10.1016/j.surneu.2007.01.067" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602374913>	literal:hasLiteralValue	"10.1016/j.surneu.2007.01.012" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602374949>	literal:hasLiteralValue	"10.1016/j.surneu.2006.12.043" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602374953>	literal:hasLiteralValue	"10.1016/j.surneu.2006.11.031" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602374961>	literal:hasLiteralValue	"10.1016/j.surneu.2006.10.024" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061403733905>	literal:hasLiteralValue	"15639508" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061403733980>	literal:hasLiteralValue	"15936360" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/br/06902123061>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/06902130254> .
+<https://w3id.org/oc/meta/id/061904662895>	literal:hasLiteralValue	"10.1016/j.surneu.2004.06.007" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061904662903>	literal:hasLiteralValue	"10.1016/s0090-3019(02)00889-3" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061904662904>	literal:hasLiteralValue	"10.1016/s0090-3019(02)00969-2" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061403734026>	literal:hasLiteralValue	"16050995" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061403734126>	literal:hasLiteralValue	"16378837" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061403734146>	literal:hasLiteralValue	"16427394" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061403734173>	literal:hasLiteralValue	"16488237" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061403734191>	literal:hasLiteralValue	"16531185" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061403734378>	literal:hasLiteralValue	"17210283" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/br/06402488727>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/06402379756> .
+<https://w3id.org/oc/meta/br/06402488752>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/06402379781> .
+<https://w3id.org/oc/meta/id/06502380452>	literal:hasLiteralValue	"10.1016/j.surneu.2009.07.047" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380481>	literal:hasLiteralValue	"10.1016/j.surneu.2009.06.022" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380539>	literal:hasLiteralValue	"10.1016/j.surneu.2009.04.028" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380543>	literal:hasLiteralValue	"10.1016/j.surneu.2009.03.017" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380578>	literal:hasLiteralValue	"10.1016/j.surneu.2008.11.010" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380612>	literal:hasLiteralValue	"10.1016/j.surneu.2008.10.013" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380624>	literal:hasLiteralValue	"10.1016/j.surneu.2008.09.024" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380652>	literal:hasLiteralValue	"10.1016/j.surneu.2008.07.015" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380666>	literal:hasLiteralValue	"10.1016/j.surneu.2008.05.021" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380696>	literal:hasLiteralValue	"10.1016/j.surneu.2008.04.020" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380725>	literal:hasLiteralValue	"10.1016/j.surneu.2008.04.005" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380786>	literal:hasLiteralValue	"10.1016/j.surneu.2008.02.022" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380795>	literal:hasLiteralValue	"10.1016/j.surneu.2008.01.018" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502380881>	literal:hasLiteralValue	"10.1016/j.surneu.2007.11.007" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502381000>	literal:hasLiteralValue	"10.1016/j.surneu.2007.09.001" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/br/061903839782>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/06502380578> ,
+		<https://w3id.org/oc/meta/id/06602375541> ,
+		<https://w3id.org/oc/meta/id/06502380543> ,
+		<https://w3id.org/oc/meta/id/06602375497> ,
+		<https://w3id.org/oc/meta/id/06502380539> ,
+		<https://w3id.org/oc/meta/id/06602375451> ,
+		<https://w3id.org/oc/meta/id/06502380481> ,
+		<https://w3id.org/oc/meta/id/06602375428> ,
+		<https://w3id.org/oc/meta/id/06602375639> ,
+		<https://w3id.org/oc/meta/id/06502380666> ,
+		<https://w3id.org/oc/meta/id/06502380652> ,
+		<https://w3id.org/oc/meta/id/06602375624> ,
+		<https://w3id.org/oc/meta/id/06502380624> ,
+		<https://w3id.org/oc/meta/id/06602375579> ,
+		<https://w3id.org/oc/meta/id/06502380612> ,
+		<https://w3id.org/oc/meta/id/06602375553> ,
+		<https://w3id.org/oc/meta/id/06602375707> ,
+		<https://w3id.org/oc/meta/id/06502380795> ,
+		<https://w3id.org/oc/meta/id/06502380786> ,
+		<https://w3id.org/oc/meta/id/06602375699> ,
+		<https://w3id.org/oc/meta/id/061302118486> ,
+		<https://w3id.org/oc/meta/id/06602375688> ,
+		<https://w3id.org/oc/meta/id/06502380725> ,
+		<https://w3id.org/oc/meta/id/06502380696> ,
+		<https://w3id.org/oc/meta/id/06602375661> ,
+		<https://w3id.org/oc/meta/id/06502381000> ,
+		<https://w3id.org/oc/meta/id/06502380881> ,
+		<https://w3id.org/oc/meta/id/06502380452> ,
+		<https://w3id.org/oc/meta/id/061302118442> ,
+		<https://w3id.org/oc/meta/id/061302118621> ,
+		<https://w3id.org/oc/meta/id/061302118614> ,
+		<https://w3id.org/oc/meta/id/06902130059> ,
+		<https://w3id.org/oc/meta/id/061302118626> ,
+		<https://w3id.org/oc/meta/id/06602374868> ,
+		<https://w3id.org/oc/meta/id/06902130254> ,
+		<https://w3id.org/oc/meta/id/061503729998> ,
+		<https://w3id.org/oc/meta/id/06602374855> ,
+		<https://w3id.org/oc/meta/id/061503729980> ,
+		<https://w3id.org/oc/meta/id/06902130102> ,
+		<https://w3id.org/oc/meta/id/06902130079> ,
+		<https://w3id.org/oc/meta/id/06602374888> ,
+		<https://w3id.org/oc/meta/id/06402379756> ,
+		<https://w3id.org/oc/meta/id/06602374913> ,
+		<https://w3id.org/oc/meta/id/06702360658> ,
+		<https://w3id.org/oc/meta/id/061403733905> ,
+		<https://w3id.org/oc/meta/id/06902130117> ,
+		<https://w3id.org/oc/meta/id/06702360632> ,
+		<https://w3id.org/oc/meta/id/06402379781> ,
+		<https://w3id.org/oc/meta/id/06602374961> ,
+		<https://w3id.org/oc/meta/id/06902130161> ,
+		<https://w3id.org/oc/meta/id/061302118330> ,
+		<https://w3id.org/oc/meta/id/061403734126> ,
+		<https://w3id.org/oc/meta/id/061403734026> ,
+		<https://w3id.org/oc/meta/id/061403734378> ,
+		<https://w3id.org/oc/meta/id/061403734191> ,
+		<https://w3id.org/oc/meta/id/061403734173> ,
+		<https://w3id.org/oc/meta/id/061403734146> ,
+		<https://w3id.org/oc/meta/id/06602374949> ,
+		<https://w3id.org/oc/meta/id/061302118307> ,
+		<https://w3id.org/oc/meta/id/06602374953> ,
+		<https://w3id.org/oc/meta/id/06702360670> ,
+		<https://w3id.org/oc/meta/id/061302118322> ,
+		<https://w3id.org/oc/meta/id/061403733980> ,
+		<https://w3id.org/oc/meta/id/061503730395> ,
+		<https://w3id.org/oc/meta/id/061503730031> ,
+		<https://w3id.org/oc/meta/id/061503730574> ,
+		<https://w3id.org/oc/meta/id/061503730521> ,
+		<https://w3id.org/oc/meta/id/061503730511> ,
+		<https://w3id.org/oc/meta/id/061503730431> ,
+		<https://w3id.org/oc/meta/id/06502381046> ,
+		<https://w3id.org/oc/meta/id/061503730576> ,
+		<https://w3id.org/oc/meta/id/06502381081> ,
+		<https://w3id.org/oc/meta/id/06602374750> ,
+		<https://w3id.org/oc/meta/id/06702360748> ,
+		<https://w3id.org/oc/meta/id/061904662904> ,
+		<https://w3id.org/oc/meta/id/061904662903> ,
+		<https://w3id.org/oc/meta/id/061904662895> ,
+		<https://w3id.org/oc/meta/id/06602375179> ,
+		<https://w3id.org/oc/meta/id/06602375065> ,
+		<https://w3id.org/oc/meta/id/061302118353> ,
+		<https://w3id.org/oc/meta/id/06602375020> ,
+		<https://w3id.org/oc/meta/id/06602374794> ,
+		<https://w3id.org/oc/meta/id/06602375299> ,
+		<https://w3id.org/oc/meta/id/06602375285> ,
+		<https://w3id.org/oc/meta/id/06602375258> ,
+		<https://w3id.org/oc/meta/id/06602375220> ,
+		<https://w3id.org/oc/meta/id/06602375386> ,
+		<https://w3id.org/oc/meta/id/06602375371> ,
+		<https://w3id.org/oc/meta/id/06602375341> ,
+		<https://w3id.org/oc/meta/id/06602375313> ,
+		<https://w3id.org/oc/meta/id/06702360761> ,
+		<https://w3id.org/oc/meta/id/06602374822> ,
+		<https://w3id.org/oc/meta/id/061302118383> .
+<https://w3id.org/oc/meta/id/061503730031>	literal:hasLiteralValue	"17586209" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061503730395>	literal:hasLiteralValue	"18424297" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061503730431>	literal:hasLiteralValue	"18486693" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061503730511>	literal:hasLiteralValue	"19055951" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061503730521>	literal:hasLiteralValue	"19084681" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061503730574>	literal:hasLiteralValue	"19427937" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/061503730576>	literal:hasLiteralValue	"19559923" ;
+	datacite:usesIdentifierScheme	datacite:pmid .
+<https://w3id.org/oc/meta/id/06502381046>	literal:hasLiteralValue	"10.1016/j.surneu.2007.10.006" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06502381081>	literal:hasLiteralValue	"10.1016/j.surneu.2007.08.001" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375020>	literal:hasLiteralValue	"10.1016/j.surneu.2006.08.051" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375065>	literal:hasLiteralValue	"10.1016/j.surneu.2006.08.004" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375179>	literal:hasLiteralValue	"10.1016/j.surneu.2006.06.045" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375220>	literal:hasLiteralValue	"10.1016/j.surneu.2006.05.044" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375258>	literal:hasLiteralValue	"10.1016/j.surneu.2006.05.015" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375285>	literal:hasLiteralValue	"10.1016/j.surneu.2006.04.001" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375299>	literal:hasLiteralValue	"10.1016/j.surneu.2006.02.027" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375313>	literal:hasLiteralValue	"10.1016/j.surneu.2006.01.015" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375341>	literal:hasLiteralValue	"10.1016/j.surneu.2005.12.018" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375371>	literal:hasLiteralValue	"10.1016/j.surneu.2005.11.054" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375386>	literal:hasLiteralValue	"10.1016/j.surneu.2005.10.015" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375428>	literal:hasLiteralValue	"10.1016/j.surneu.2005.09.007" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375451>	literal:hasLiteralValue	"10.1016/j.surneu.2005.08.005" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375497>	literal:hasLiteralValue	"10.1016/j.surneu.2005.07.045" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375541>	literal:hasLiteralValue	"10.1016/j.surneu.2005.06.012" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375553>	literal:hasLiteralValue	"10.1016/j.surneu.2005.05.004" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375579>	literal:hasLiteralValue	"10.1016/j.surneu.2005.04.023" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375624>	literal:hasLiteralValue	"10.1016/j.surneu.2005.03.015" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375639>	literal:hasLiteralValue	"10.1016/j.surneu.2005.02.004" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375661>	literal:hasLiteralValue	"10.1016/j.surneu.2005.01.011" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375688>	literal:hasLiteralValue	"10.1016/j.surneu.2004.12.007" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375699>	literal:hasLiteralValue	"10.1016/j.surneu.2004.08.077" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/06602375707>	literal:hasLiteralValue	"10.1016/j.surneu.2004.11.019" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061302118442>	literal:hasLiteralValue	"10.1016/s0090-3019(02)00795-4" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061302118486>	literal:hasLiteralValue	"10.1016/s0090-3019(02)00733-4" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061302118614>	literal:hasLiteralValue	"10.1016/s0090-3019(02)00739-5" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061302118621>	literal:hasLiteralValue	"10.1016/s0090-3019(02)00759-0" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/id/061302118626>	literal:hasLiteralValue	"10.1016/s0090-3019(02)00667-5" ;
+	datacite:usesIdentifierScheme	datacite:doi .
+<https://w3id.org/oc/meta/br/061302096049>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118442> .
+<https://w3id.org/oc/meta/br/061302096093>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118486> .
+<https://w3id.org/oc/meta/br/061302096221>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118614> .
+<https://w3id.org/oc/meta/br/061302096228>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118621> .
+<https://w3id.org/oc/meta/br/061302096233>	datacite:hasIdentifier	<https://w3id.org/oc/meta/id/061302118626> .
