@@ -1003,6 +1003,17 @@ test = ["coverage", "pytest (>=7.0)", "pytest-check-links (>=0.7)", "pytest-cons
 upgrade-extension = ["copier (>=8,<10)", "jinja2-time (<0.3)", "pydantic (<2.0)", "pyyaml-include (<2.0)", "tomli-w (<2.0)"]
 
 [[package]]
+name = "jupyterlab-gist-it"
+version = "0.2.1"
+description = "Upload Jupyter notebooks to GitHub Gist."
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "jupyterlab_gist_it-0.2.1-py3-none-any.whl", hash = "sha256:924e5b62f86e7059a4c241ba2b89f20f29f98fd9946d864a537f928735afec82"},
+    {file = "jupyterlab_gist_it-0.2.1.tar.gz", hash = "sha256:5ff4ccace8656aff89f857d735aff37950f6d8e1e666748f821af0cf9392a0a0"},
+]
+
+[[package]]
 name = "jupyterlab-pygments"
 version = "0.3.0"
 description = "Pygments theme using JupyterLab CSS variables"
@@ -2256,4 +2267,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "b8bcd2bf0c245aad646831fbbe51c67609ca2c0a7358465a21b94536e0ae388b"
+content-hash = "f0552c26cdfd870037a56c23c539c09b592a91ca2bc64c0b5eadd83791570e12"
